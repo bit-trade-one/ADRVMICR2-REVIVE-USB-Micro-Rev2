@@ -1,15 +1,15 @@
 # ファイルリスト
 
- - [Rev2]()
+ - [Rev2](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/Rev2)
     - Revive_Micro_CT_Ex_v310.exe(通常版)
     - Revive_Micro_CT_Ex_en_v310.exe(通常版・英語)
- - [Rev1]()
+ - [Rev1](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/Rev1)
     - Revive_Micro_CT.exe(旧通常版(Rev2FW未対応))
     - Revive_Micro_CT_en.exe(old version(Rev2FW未対応)・英語)
- - [Matrix]()
+ - [Matrix](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/Matrix)
     - Revive_Micro_MATRIX_CT.exe(マトリックス版)
     - Revive_Micro_MATRIX_CT_en.exe(マトリックス版・英語)
- - [iOS]()
+ - [iOS](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/iOS)
     - Revive_Micro_CT_v200.exe(iOS対応・通常版)
     - Revive_Micro_MATRIX_CT_v200.exe(iOS対応・マトリックス版)
 
