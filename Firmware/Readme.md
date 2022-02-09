@@ -10,15 +10,14 @@
 
 # ファイルリスト
 
- - [Rev2]()
+ - [Rev2](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware/Rev2)
    - REVIVE_MICRO_Ex_v100.zip(通常版) ※2021/12/03 ロータリーエンコーダ＆チャタリング防止対応版更新
- - [Rev1]()
+ - [Rev1](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware/Rev1)
    - REVIVE_MICRO_v001.zip(旧通常版(Rev2ツール未対応))
- - [Matrix]()
+ - [Matrix](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware/Matrix)
    - REVIVE_MATRIX.zip(マトリックス版)
- - [iOS]()
+ - [iOS](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware/iOS)
    - REVIVE_MICRO_v001i.zip(iOS対応・通常版)
    - REVIVE_Micro_MATRIX_v002i.zip(iOS対応・マトリックス版)
- - [Tool]()
+ - [Tool](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware/Tool)
    - HIDBootLoader.exe(ファームウェア書込ツール)
-
