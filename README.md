@@ -1,4 +1,4 @@
-# ADRVMIC-REVIVE-USB-Micro
+# ADRVMICR2-REVIVE-USB-Micro-Rev2
 
 ## 弊社ベストセラー製品が驚異の小型化！更に新ファームウェアによりチャタリング防止機能や、ロータリーエンコーダの接続に対応！
 
