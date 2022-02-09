@@ -1,89 +1,42 @@
-# -ADXXXXX-Template
+# ADRVMIC-REVIVE-USB-Micro
 
-## ここに見出し
+## 弊社ベストセラー製品が驚異の小型化！更に新ファームウェアによりチャタリング防止機能や、ロータリーエンコーダの接続に対応！
 
-![タイトル画像のURLを右のカッコに]()
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/12/2d0d67c312d1b9bc41fbb87ea2492977.jpg)  
 
-「●●●●●」はほにゃららするためのなんちゃらボード。  
-この製品を使用する事でもにょもにょがぺけぺけできる。  
+簡単にオリジナルUSBデバイスを製作できるモジュールです。ピンにスイッチを接続するだけでユーザーに敷居の高い  
+USBインターフェースの入力処理や設定を全てこのモジュールが対応します。  
 
-<!--
-改行する場合、文末に半角スペース2個を置く
+Rev.2リニューアルの目玉はファームウェアアップデート。  
+チャタリング対策機能やロータリーエンコーダが対応可能となり、作成できるデバイスの幅が更に広がりました。  
 
-リンクの貼り方
-[リンクになる文章](URL)
-exp.
-[Google](https://www.google.co.jp/)
+## [製品の詳細はこちら](http://bit-trade-one.co.jp/adrvmic/) 
 
-画像の貼り方
-![画像が読めない時に表示されるテキスト](画像のURL)
-exp.
-![bit-trade-one](https://bit-trade-one.co.jp/wp/wp-content/uploads/tcd-w/logo.png)
-※先頭の"!"を忘れないこと
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/)  
 
+## [ファームウェアはこちら](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware/)
 
-見出しの付け方
+## [Q&A](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/FAQ.md)
 
-# 見出し1
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App_source/)  
 
-## 見出し1-1
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware_source/)
 
-###　見出し1-2
+### [基板図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)
 
-# 見出し2
+### [回路図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Schematics/REVIVE-USB-MICRO-Schematics.pdf)
 
-"#"を増やすと下位の見出しになる
-
-
--->
-
-
-<!--
-以下のURL内の"-ADXXXXX-Template"をリポジトリ名/ファイル名に変更 
-
-製品によって無い情報(ライブラリへのリンクなど)は削除すること
-
-ソフトの使い方、ライブラリの使い方などがWordなどである場合は、
-各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
--->
-
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
-
-## [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
-
-## [アプリケーションソフト](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
-
-## [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
-
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
-
-### [ライブラリ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
-
-### [サンプルコード](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
-
-### [アプリケーションソース](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
-
-### [ファームウェアソース](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
-
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
-
-### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
-
+### [部品表](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Partslist/ADRVMIC-Partslist.md)
 
 ## 作例
 
-[BTO公式]()  
-[Twitter作例1]()  
-[Twitter作例2]()  
-[ブログ作例1]()  
-[ブログ作例1]()  
+[格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/)  
+[自分だけのオリジナルUSBコントローラが作れる「REVIVE USB Micro」で変なの作ってみた（PC-watch）](https://pc.watch.impress.co.jp/docs/column/tool/1200128.html)  
+[REVIVE USB †MICRO†を使ったスティックアダプタの製作（しおんパパのひみつきち）](https://sions-papa.blogspot.com/2019/11/revive-usb-micro2019.html)  
 
-## 雑誌掲載情報
+## 雑誌掲載情報  
 
-[ラズパイマガジンXX年Y月号]()  
-[Pc Watch]()
+[工学社 I/O 2019年10月号](http://www.kohgakusha.co.jp/books/detail/4579)  
 
 ## 製品仕様
     【対応OS】Windows7以降
