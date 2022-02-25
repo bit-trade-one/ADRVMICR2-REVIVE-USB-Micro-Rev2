@@ -7,5 +7,5 @@
 
 # ファイルリスト
 
- - Revive_Micro_CT_Ex_v310.exe(通常版)
- - Revive_Micro_CT_Ex_en_v310.exe(通常版・英語)
+ - Revive_Micro_CT_Ex_v311.exe(通常版)
+ - Revive_Micro_CT_Ex_v311en.exe(通常版・英語)
