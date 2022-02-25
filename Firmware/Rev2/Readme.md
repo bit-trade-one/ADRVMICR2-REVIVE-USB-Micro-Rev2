@@ -8,4 +8,4 @@
 
 # ファイルリスト
 
- - REVIVE_MICRO_Ex_v100.zip(通常版)
+ - REVIVE_MICRO_Ex_v101.zip(通常版)
