@@ -37,11 +37,11 @@ Configuration Toolを用いて行った設定はREVIVE USBのチップの中に�
 ### 2.1 REVIVE USB MICROの立ち上げ
 
 REVIVE USB MICRO Configuration Toolを立ち上げ、REVIVE USB MICROを接続すると、自動的にデバイスが認識され、以下の様な画面となります。  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/00wake.jpg)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-1.png)  
 デバイスが認識されていないと、以下の画面となります。  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/01dis.jpg)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-2.png)  
 各画面の情報は以下のとおりです。  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/02info.jpg)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-3.png)  
 ### 2.2 設定順序
 
 設定は以下の順番で行ないます。  
@@ -57,7 +57,7 @@ REVIVE USB MICRO Configuration Toolを立ち上げ、REVIVE USB MICROを接続�
 
 まず、設定するピンを選びます。  
 ピンは以下の選び方が出来ます。  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/03select.jpg)  
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-4.png)  
 ### 2.4 デバイスタイプ／割当てを選択  
 
 設定するピンを選んだ後、デバイスタイプ／割当てを選択します。  
@@ -94,7 +94,7 @@ REVIVE USB MICRO Configuration Toolを立ち上げ、REVIVE USB MICROを接続�
 
 各移動に割当てられたピンがONになると、マウスカーソルが設定した方向に移動します。  
 マウスカーソルのスピードは「移動速度」で設定出来ます。デフォルトは50で、1～255の範囲で設定し、値が小さい程カーソル速度は遅く、値が大きいほどカーソル速度は早くなります。  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/04move.jpg)  
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-5.png)  
 
 ##### 2.4.1.5 ホイール上／ホイール下
 
@@ -110,7 +110,7 @@ REVIVE USB MICRO Configuration Toolを立ち上げ、REVIVE USB MICROを接続�
 #### 2.4.2 キーボード
 
 割当てのCtrl／Shift／Alt／Winのチェックボックスにチェックを入れ、「ここに入力」の所でキーを入力し、設定すると、ピンにその動作が割当てられます。  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/05kb.jpg)  
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-6.png)  
 例えば、「CTRL + ALT + DEL」を設定したい場合には、[Ctrl]と[Alt]にチェックを入れ、「ここに入力」の所で「Delキー」を押し、「設定」を押します。  
 そのピンがONになると、CTRL + ALT + DELが押されます。  
 
@@ -119,8 +119,35 @@ REVIVE USB MICRO Configuration Toolを立ち上げ、REVIVE USB MICROを接続�
 レバー上下左右／ボタン1～12の中からそのピンに対応させたい物を選んでチェックを入れます。  
 チェックを入れたもの全てが反応する様になります。  
 例えば、「ボタン１」と「ボタン３」にチェックを入れた場合、そのピンをONにすると、「ボタン１／３」が同時におされます。  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/06pad.jpg)  
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-7.png)  
 
 ### 2.5 エンコーダ設定
 
+拡張機能で、エンコーダ読み取り機能の設定ができます。  
+読み取れるエンコーダはA/B2相タイプのものになります。  
+隣り合う2ピンを一つのエンコーダに割り当てることができます。
+
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-9.png)  
+
+機能は回転方向ごとにそれぞれ割り当てられます。  
+通常の機能設定と同様に設定してください。  
+パルスが入力されるごとに、回転方向に応じて信号をPCに送出します。  
+
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-10.png)  
+
+*回転方向と機能の割り当てを逆にしたい場合は以下のどちらかを行ってください。*
+ - ツール上でペアのピンのそれぞれに割り当てた機能を逆にする
+ - エンコーダのA相/B相の結線を逆にする
+
 ### 2.6 チャタリング防止設定
+
+拡張機能で、チャタリング防止のための複数時点検出機能の設定ができます。  
+スイッチが一度ONになると、そのタイミングから"サンプリング周期\[ms\]"で設定した間隔ごとにスイッチの状態を確認します。  
+連続で"一致検出回数"で設定した回数以上スイッチがONであることが確認されれば、そのピンに指定された信号をPCに送出します。  
+
+
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-8.png)  
+
+
+![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/Anti-Chatter.png)  
+
