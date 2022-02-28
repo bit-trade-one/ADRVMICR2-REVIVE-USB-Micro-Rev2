@@ -57,7 +57,7 @@ REVIVE USB MICRO Configuration Toolを立ち上げ、REVIVE USB MICROを接続�
 
 まず、設定するピンを選びます。  
 ピンは以下の選び方が出来ます。  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-4.png)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-4.png)  
 ### 2.4 デバイスタイプ／割当てを選択  
 
 設定するピンを選んだ後、デバイスタイプ／割当てを選択します。  
@@ -94,7 +94,7 @@ REVIVE USB MICRO Configuration Toolを立ち上げ、REVIVE USB MICROを接続�
 
 各移動に割当てられたピンがONになると、マウスカーソルが設定した方向に移動します。  
 マウスカーソルのスピードは「移動速度」で設定出来ます。デフォルトは50で、1～255の範囲で設定し、値が小さい程カーソル速度は遅く、値が大きいほどカーソル速度は早くなります。  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-5.png)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-5.png)  
 
 ##### 2.4.1.5 ホイール上／ホイール下
 
@@ -119,7 +119,7 @@ REVIVE USB MICRO Configuration Toolを立ち上げ、REVIVE USB MICROを接続�
 レバー上下左右／ボタン1～12の中からそのピンに対応させたい物を選んでチェックを入れます。  
 チェックを入れたもの全てが反応する様になります。  
 例えば、「ボタン１」と「ボタン３」にチェックを入れた場合、そのピンをONにすると、「ボタン１／３」が同時におされます。  
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-7.png)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-7.png)  
 
 ### 2.5 エンコーダ設定
 
@@ -127,13 +127,13 @@ REVIVE USB MICRO Configuration Toolを立ち上げ、REVIVE USB MICROを接続�
 読み取れるエンコーダはA/B2相タイプのものになります。  
 隣り合う2ピンを一つのエンコーダに割り当てることができます。
 
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-9.png)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-9.png)  
 
 機能は回転方向ごとにそれぞれ割り当てられます。  
 通常の機能設定と同様に設定してください。  
 パルスが入力されるごとに、回転方向に応じて信号をPCに送出します。  
 
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-10.png)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-10.png)  
 
 *回転方向と機能の割り当てを逆にしたい場合は以下のどちらかを行ってください。*
  - ツール上でペアのピンのそれぞれに割り当てた機能を逆にする
@@ -146,8 +146,8 @@ REVIVE USB MICRO Configuration Toolを立ち上げ、REVIVE USB MICROを接続�
 連続で"一致検出回数"で設定した回数以上スイッチがONであることが確認されれば、そのピンに指定された信号をPCに送出します。  
 
 
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-8.png)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-8.png)  
 
 
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/Anti-Chatter.png)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/Anti-Chatter.png)  
 
