@@ -149,5 +149,5 @@ REVIVE USB MICRO Configuration Toolを立ち上げ、REVIVE USB MICROを接続�
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/RVMICR2-8.png)  
 
 
-![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/Anti-Chatter.png)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/Anti-Chatter.png)  
 
