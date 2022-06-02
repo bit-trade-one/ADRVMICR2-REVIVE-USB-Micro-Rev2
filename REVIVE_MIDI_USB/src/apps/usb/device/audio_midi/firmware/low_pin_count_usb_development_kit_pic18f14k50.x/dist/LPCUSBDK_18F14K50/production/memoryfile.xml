@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/LPCUSBDK_18F14K50/production\low_pin_count_usb_development_kit_pic18f14k50.x.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>12288</length>
+      <used>8385</used>
+      <free>3903</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>768</length>
+      <used>247</used>
+      <free>521</free>
+    </memory>
+  </executable>
+</project>
