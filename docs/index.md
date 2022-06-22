@@ -1,7 +1,7 @@
 [![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
 
 
-## 目的別ダウンロード物・使用方法
+## 目的別ダウンロード・使用方法
 ### [通常版 / 通常版 EnglishVersion]()
 REVIVEMicroの基本的なバージョンです。  
 ボタン・ロータリーエンコーダを接続でき、  
@@ -32,10 +32,12 @@ REVIVEMicroのiOS対応マトリックス接続可 暫定版です 。
 
 ### 設定時系統図
 ![設定ツール系統図](https://user-images.githubusercontent.com/85532743/174945836-e603b908-46bf-4eb9-8db1-82bb0caa2909.png)
-
+WINDOWS PCで動くソフトウェアが設定ツールで  
+REVIVEMicro内で動くソフトウェアがファームウェアです
 
 ### 使用時系統図
 ![使用時系統図](https://user-images.githubusercontent.com/85532743/174945821-9a844334-d9fa-4c1a-ada5-843ba585ac60.png)
+使用時はキーボード・マウス・ゲームパッドとして振る舞います。  
 
 ## よくある質問
 - [Q&A]( )  
