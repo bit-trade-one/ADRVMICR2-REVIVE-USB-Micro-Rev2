@@ -1,8 +1,10 @@
 [![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
 
-通常版を使用する場合には  
-通常版設定ツールと  
-通常版ファームウェアが書き込まれたREVIVE-USB-Microが必要です  
+通常版2を使用する場合には  
+通常版2設定ツールと  
+通常版2ファームウェアが書き込まれたREVIVE-USB-Microが必要です  
+
+REVIVE-USB-Micro-Rev2は販売時コチラのファームウェアが書き込み済みです。
 
 ## 目次
 - [通常版ダウンロード](#通常版ダウンロード)  
