@@ -5,7 +5,7 @@ To use Normal Edition 2, a REVIVE-USB-Micro with the Normal Edition 2 configurat
 The REVIVE-USB-Micro-Rev2 comes with Normal Edition 2 firmware installed at the time of sale.
 
 # Normal Edition 2 Download
-### [Normal Edition 2 SettingTool Download Link(v311)](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/Rev2/Revive_Micro_Ex_CT_v311en.exe)
+### [Normal Edition 2 SettingTool EN Download Link(v311)](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/Rev2/Revive_Micro_Ex_CT_v311en.exe)
 [old](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/tree/master/App/Rev2)
 
 It is a setting tool for assigning pins.
