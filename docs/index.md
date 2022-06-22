@@ -7,7 +7,7 @@
 ハードウェアに変更はありません。
 
 ## ダウンロード・使用方法
-### [通常版2](Rev2.md) / [通常版2 EnglishVersion](https://bit--trade--one-github-io.translate.goog/ADRVMICR2-REVIVE-USB-Micro-Rev2/Rev2.html?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp)
+### [通常版2](Rev2.md) / [通常版2 EnglishVersion](Rev2EN.md)
 REVIVEMicro2の基本的なバージョンです。  
 ボタン・ロータリーエンコーダを接続でき、  
 キーボード・マウス・ゲームパッドとして振る舞えます。  
