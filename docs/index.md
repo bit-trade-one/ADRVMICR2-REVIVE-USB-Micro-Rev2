@@ -8,8 +8,8 @@ REVIVEMicro2の基本的なバージョンです。
 キーボード・マウス・ゲームパッドとして振る舞えます。  
 チャタリング防止機能もあります。  
 
-REV1用のファームウェアを書き込むことも可能です。  
-[REV1用のサポートサイト](https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/)をご覧ください。  
+> REV1用のファームウェアを書き込むことも可能です。  
+> [REV1用のサポートサイト](https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/)をご覧ください。  
 
 ## ファームウェア
 ### [ファームウェア書き換え方法](Rev2.md#ファームウエア書き換え方法)
