@@ -50,7 +50,7 @@ REVIVEMicro内で動くソフトウェアがファームウェアです
 - [基板図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)  
 
 ## リンク
-## [REVIVEMicro HPリンク](http://bit-trade-one.co.jp/adrvmic/) 
+[REVIVEMicro HPリンク](http://bit-trade-one.co.jp/adrvmic/) 
 
 ## 作例
 
