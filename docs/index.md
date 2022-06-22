@@ -30,6 +30,9 @@ REVIVEMicroのiOS対応マトリックス接続可 暫定版です 。
 
 ## ファームウェア
 ### [ファームウェア書き換え方法]()
+
+---
+
 ## 系統図
 
 ### 設定時系統図
@@ -41,6 +44,9 @@ REVIVEMicro内で動くソフトウェアがファームウェアです
 ![使用時系統図](https://user-images.githubusercontent.com/85532743/174945821-9a844334-d9fa-4c1a-ada5-843ba585ac60.png)
 使用時はキーボード・マウス・ゲームパッドとして振る舞います。  
 ピン割当はREVIVEMicro本体に保存されます。
+
+
+---
 
 ## よくある質問
 - [Q&A](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/FAQ.md)  
