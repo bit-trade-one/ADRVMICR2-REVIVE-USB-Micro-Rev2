@@ -1,7 +1,9 @@
 [![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
 
 ## REV1とREV2の違い
-書き込まれているファームウェアが新しくなっています。
+書き込まれているファームウェアが新しくなっています。  
+設定ツールも合わせて新しいものをお使いください。
+
 ハードウェアに変更はありません。
 
 ## ダウンロード・使用方法
