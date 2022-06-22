@@ -18,5 +18,5 @@ Firmware is software written into hardware.
 When new firmware is released that fixes defects or adds functionality, the new functionality can be used by updating the firmware.   
 When new firmware is released that fixes defects or adds functionality, updating the firmware will enable the new functionality.  
 
-### Sorry, please translate the Japanese version for usage.
+### Sorry, please translate the [Japanese version](Rev2.md) for usage.
 
