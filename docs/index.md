@@ -40,7 +40,7 @@ REVIVEMicro内で動くソフトウェアがファームウェアです
 使用時はキーボード・マウス・ゲームパッドとして振る舞います。  
 
 ## よくある質問
-- [Q&A]([FAQ.md](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/FAQ.md))  
+- [Q&A](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/FAQ.md)  
 
 ## 設計データ
 - [回路図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Schematics/REVIVE-USB-MICRO-Schematics.pdf)  
