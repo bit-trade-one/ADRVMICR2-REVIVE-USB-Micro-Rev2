@@ -31,10 +31,11 @@ REVIVEMicroのiOS対応マトリックス接続可 暫定版です
 ## 系統図
 
 ### 設定時系統図
-![設定ツール系統図](https://user-images.githubusercontent.com/85532743/174942400-429e5ab6-abbd-4a0f-8337-5d7bf517c364.png)
+![設定ツール系統図](https://user-images.githubusercontent.com/85532743/174945836-e603b908-46bf-4eb9-8db1-82bb0caa2909.png)
+
 
 ### 使用時系統図
-![使用時系統図](https://user-images.githubusercontent.com/85532743/174942407-97ce5208-72f7-4a47-a584-56ce37778dd4.png)
+![使用時系統図](https://user-images.githubusercontent.com/85532743/174945821-9a844334-d9fa-4c1a-ada5-843ba585ac60.png)
 
 ## よくある質問
 - [Q&A]( )  
