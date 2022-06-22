@@ -16,5 +16,5 @@ This setting tool works on a Windows PC.
 
 Firmware is software written into hardware.  
 When new firmware is released that fixes defects or adds functionality, the new functionality can be used by updating the firmware.   
-When new firmware is released that fixes defects or adds functionality, updating the firmware will enable the new functionality.  
+
 
