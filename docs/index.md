@@ -30,7 +30,7 @@ WINDOWS PCで動くソフトウェアが設定ツールで
 REVIVEMicro内で動くソフトウェアがファームウェアです
 
 ### 使用時系統図
-![使用時系統図](https://user-images.githubusercontent.com/85532743/174945821-9a844334-d9fa-4c1a-ada5-843ba585ac60.png)
+![2使用時系統図](https://user-images.githubusercontent.com/85532743/175194039-79dede0a-df67-41e4-9de4-03e487931b68.png)
 使用時はキーボード・マウス・ゲームパッドとして振る舞います。  
 ピン割当はREVIVEMicro本体に保存されます。
 
