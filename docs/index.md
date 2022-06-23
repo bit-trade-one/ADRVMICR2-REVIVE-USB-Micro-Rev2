@@ -14,6 +14,7 @@ REVIVEMicro2の基本的なバージョンです。
 チャタリング防止機能もあります。  
 
 > REV1用のファームウェアを書き込むことも可能です。  
+> REV1用・マトリクス版・ios版を使用したい場合は
 > [REV1用のサポートサイト](https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/)をご覧ください。  
 
 ## ファームウェア
