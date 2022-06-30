@@ -1,21 +1,22 @@
 [![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
 
-## REV1とREV2の違い
-書き込まれているファームウェアが新しくなっています。  
-設定ツールも合わせて新しいものをお使いください。
+## Revive USB Micro 無印/Rev.2について  
+Revive USB Microには無印版とRev.2版が存在します。  
+ハードウェアに違いはなく、Rev.2は出荷時に予めより高機能なファームウェアが書き込まれたリニューアル版となります。  
+無印版に同等のファームウェアを書き込んだ場合、機能に差はありません。  
+[無印版のサポートサイト](https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/)
 
-ハードウェアに変更はありません。
 
 ## ダウンロード・使用方法
-### [通常版2](Rev2.md) / [通常版2 EnglishVersion](Rev2EN.md)
-REVIVEMicro2の基本的なバージョンです。  
+### [通常版Rev2](Rev2.md) / [通常版Rev2 EnglishVersion](Rev2EN.md)
+REVIVEMicroRev.2の基本的なバージョンです。  
 ボタン・ロータリーエンコーダを接続でき、  
 キーボード・マウス・ゲームパッドとして振る舞えます。  
 チャタリング防止機能もあります。  
 
-> REV1用のファームウェアを書き込むことも可能です。  
-> REV1用・マトリクス版・ios版を使用したい場合は  
-> [REV1用のサポートサイト](https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/)をご覧ください。  
+> 無印版のファームウェアを書き込むことも可能です。  
+> 無印版・マトリクス版・ios版を使用したい場合は  
+> [無印版のサポートサイト](https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/)をご覧ください。  
 
 ## ファームウェア
 ### [ファームウェア書き換え方法](Rev2.md#ファームウエア書き換え方法)
