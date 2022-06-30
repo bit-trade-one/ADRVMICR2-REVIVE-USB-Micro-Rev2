@@ -8,7 +8,7 @@ Revive USB Microには無印版とRev.2版が存在します。
 
 
 ## ダウンロード・使用方法
-### [通常版Rev2](Rev2.md) / [通常版Rev2 EnglishVersion](Rev2EN.md)
+### [通常版Rev.2](Rev2.md) / [通常版Rev.2 EnglishVersion](Rev2EN.md)
 REVIVEMicroRev.2の基本的なバージョンです。  
 ボタン・ロータリーエンコーダを接続でき、  
 キーボード・マウス・ゲームパッドとして振る舞えます。  
