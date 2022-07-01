@@ -1,6 +1,6 @@
 # ADRVMICR2-REVIVE-USB-Micro-Rev2
 
-※旧製品 REVIVE USB Microの最新情報もこちらのレポジトリで取り扱っています。
+※旧製品 [REVIVE USB Micro](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro)の最新情報もこちらのレポジトリで取り扱っています。
 
 ## 弊社ベストセラー製品が驚異の小型化！更に新ファームウェアによりチャタリング防止機能や、ロータリーエンコーダの接続に対応！
 
