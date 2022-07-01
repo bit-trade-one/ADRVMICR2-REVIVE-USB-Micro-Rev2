@@ -12,23 +12,10 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 Rev.2リニューアルの目玉はファームウェアアップデート。  
 チャタリング対策機能やロータリーエンコーダが対応可能となり、作成できるデバイスの幅が更に広がりました。  
 
-## [製品の詳細はこちら](http://bit-trade-one.co.jp/adrvmic/) 
+## [製品HP](http://bit-trade-one.co.jp/adrvmic/) 
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/)  
+## [ファイルダウンロード・説明サイト](https://bit-trade-one.github.io/ADRVMICR2-REVIVE-USB-Micro-Rev2/)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware/)
-
-## [Q&A](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/FAQ.md)
-
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App_source/)  
-
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware_source/)
-
-### [基板図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Schematics/REVIVE-USB-MICRO-Schematics.pdf)
-
-### [部品表](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Partslist/ADRVMIC-Partslist.md)
 
 ## 作例
 
