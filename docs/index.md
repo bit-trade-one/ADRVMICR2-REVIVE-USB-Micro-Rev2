@@ -51,6 +51,7 @@ REVIVEMicro内で動くソフトウェアがファームウェアです
 
 ## 作例
 
+- [REVIVE USB/MICRO開発 ソースコード改造のすゝめ(Otogeworks ushui)](https://otogeworks.com/blog/develop-revive-usb-and-micro/)
 - [ミニUSB MIDIキーボードを作ってみた（Bit-trade-one）](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/tree/master/REVIVE_MIDI_USB)  
 - [格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/)  
 - [自分だけのオリジナルUSBコントローラが作れる「REVIVE USB Micro」で変なの作ってみた（PC-watch）](https://pc.watch.impress.co.jp/docs/column/tool/1200128.html)  
