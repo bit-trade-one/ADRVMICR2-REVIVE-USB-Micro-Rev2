@@ -176,6 +176,7 @@ CTRL + ALT + DELや、ALT+SHIFT+Tなどの入力が可能です。
 >・[ゲームパッドのみのファームウェアダウンロードリンク](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware/Rev2_GamepadOnlyHEX/REVIVE_MICRO_Ex_v101G.zip)  
 >・[ゲームパッド専用設定ツールダウンロードリンク](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/Rev2_GamepadOnly/Revive_Micro_Ex_CT_v311G.zip)  
 >双方展開してご使用ください。  
+>ウィルス判定が出る場合はお手数ですがWindowsDefender等のリアルタイム保護をお切りください  
 
 
 ファームウェアはハードウェアの中に書き込まれているソフトウェアです。  
