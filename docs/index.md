@@ -35,13 +35,18 @@ REVIVEMicro内で動くソフトウェアがファームウェアです
 使用時はキーボード・マウス・ゲームパッドとして振る舞います。  
 ピン割当はREVIVEMicro本体に保存されます。
 
+### スイッチ接続方法  
+![スイッチ接続方法図](https://raw.githubusercontent.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/master/package/ADRVMICR2%EF%BC%BFpackage_u.png)
+
+[クリックで拡大](https://raw.githubusercontent.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/master/package/ADRVMICR2%EF%BC%BFpackage_u.png)
 
 ---
 
 ## よくある質問
 - [Q&A](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/FAQ.md)  
 
-## 設計データ
+## データ
+- [パッケージ](https://raw.githubusercontent.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/master/package/ADRVMICR2%EF%BC%BFpackage.png)
 - [回路図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Schematics/REVIVE-USB-MICRO-Schematics.pdf)  
 - [基板図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)  
 
