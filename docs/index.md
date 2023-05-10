@@ -52,7 +52,7 @@ REVIVEMicro内で動くソフトウェアがファームウェアです
 - [基板図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)  
 
 ### データ-ADRVBRB マトリクスブレイクアウトボード
-- [ADRVBRB マトリクスブレイクアウトボード HPリンク]([http://bit-trade-one.co.jp/adrvmic/](https://bit-trade-one.co.jp/adrvbrb/)) 
+- [ADRVBRB マトリクスブレイクアウトボード HPリンク](https://bit-trade-one.co.jp/adrvbrb/) 
 - [回路図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Schematics/ADRVBRB/ADRVBRB_V1_sch.pdf)  
 - [基板図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Dimensions/ADRVBRB/ADRVBRB_V1_brd.pdf)  
 
