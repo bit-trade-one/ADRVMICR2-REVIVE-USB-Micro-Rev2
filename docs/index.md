@@ -46,12 +46,17 @@ REVIVEMicro内で動くソフトウェアがファームウェアです
 - [Q&A](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/FAQ.md)  
 
 ## データ
+- [REVIVEMicro HPリンク](http://bit-trade-one.co.jp/adrvmic/) 
 - [パッケージ](https://raw.githubusercontent.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/master/package/ADRVMICR2%EF%BC%BFpackage.png)
 - [回路図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Schematics/REVIVE-USB-MICRO-Schematics.pdf)  
 - [基板図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)  
 
+### データ-ADRVBRB マトリクスブレイクアウトボード
+- [ADRVBRB マトリクスブレイクアウトボード HPリンク]([http://bit-trade-one.co.jp/adrvmic/](https://bit-trade-one.co.jp/adrvbrb/)) 
+- [回路図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Schematics/ADRVBRB/ADRVBRB_V1_sch.pdf)  
+- [基板図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Dimensions/ADRVBRB/ADRVBRB_V1_brd.pdf)  
+
 ## リンク
-- [REVIVEMicro HPリンク](http://bit-trade-one.co.jp/adrvmic/) 
 - [お問い合わせ](https://bit-trade-one.co.jp/contactus/)
 
 ## 作例
